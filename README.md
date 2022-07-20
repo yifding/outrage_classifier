@@ -29,6 +29,14 @@ Then run the command below. The package is compatible with both Python2 and Pyth
 python setup.py install 
 ```
 
+**Yifan Ding**
+### need to install jsonlines and downgrade tensorflow and emoji packages for running.
+```sh
+pip install -r requirements.py
+```
+
+### aslo needs to install nltk related packages in the commend line if the code does not work.
+
 ## Importing
 The package can be imported using the following code:
 
